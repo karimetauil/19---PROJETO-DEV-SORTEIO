@@ -34,3 +34,11 @@ O Projeto Dev Sorteio tem a proposta de criação de um site, onde é permitido 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](---------------------). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença KTDA.
+
+---
+
+Feito com ♥ by KARIME TAUIL :wave:  
